@@ -14,7 +14,7 @@ Prerequisites
 Usage
 -----
 
-The code you provided implements a framework for interacting with a text-based game environment using Deep Reinforcement Learning (DRL) and Natural Language Processing (NLP). Here's a breakdown of the key functionalities:
+The code implements a framework for interacting with a text-based game environment using Deep Reinforcement Learning (DRL) and Natural Language Processing (NLP). 
 
 Core Functionalities:
 
