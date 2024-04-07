@@ -1,0 +1,58 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.txt
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+logs/train/events.out.tfevents.1473323787.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473323868.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473324097.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473324417.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473324636.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473324707.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473325210.Ahmeds-MacBook-Pro.local
+logs/train/events.out.tfevents.1473325268.Ahmeds-MacBook-Pro.loca
+logs/train/*
+Savednetworks
+backups/logs
+*.pdf
+*.png
+StudentSavednetworks
+.framework.lua.swp
+MDQNSavednetworks
+*.jpg
