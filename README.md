@@ -24,8 +24,3 @@ References
 
 - [EMNLP 2015 slide](http://people.csail.mit.edu/karthikn/pdfs/mud-play15-slides.pdf)
 
-
-Author
-------
-
-Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
