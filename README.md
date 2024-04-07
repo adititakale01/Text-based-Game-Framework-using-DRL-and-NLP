@@ -3,8 +3,6 @@ Text-based Games using Deep Reinforcement Learning
 
 Tensorflow implementation of [Language Understanding for Text-based Games using Deep Reinforcement Learning](http://arxiv.org/abs/1506.08941). The original code of author can be found [here](https://github.com/karthikncode/text-world-player).
 
-![model](./assets/model.png)
-
 
 Prerequisites
 -------------
